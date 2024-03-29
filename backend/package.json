@@ -4,6 +4,7 @@
     "deploy": "wrangler deploy --minify src/index.ts"
   },
   "dependencies": {
+    "@yadneya/common-medium": "^1.0.0",
     "hono": "^4.1.3"
   },
   "devDependencies": {
